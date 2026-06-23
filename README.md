@@ -1,1 +1,1 @@
-# rockpaperscissors - just playing with copilot
+# rockpaperscissors - just playing with copilot agents
